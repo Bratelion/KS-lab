@@ -10,3 +10,5 @@ const Navigation = () => (
     <Combobox />
   </section>
 )
+
+export default Navigation;

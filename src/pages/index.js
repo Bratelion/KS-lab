@@ -10,9 +10,6 @@ const IndexPage = () => (
   <main>
     <ContactBar />
     <NavigationHeader />
-    <Logo />
-    <NavigationBar />
-    <Combobox />
   </main>
 )
 
