@@ -1,6 +1,6 @@
 import React from 'react'
 
-import NavigationBar from '../NavigationBar'
+import NavigationBar from '../../modules/NavigationBar'
 import Combobox from '../Combobox'
 import styles from './style.module.css'
 
