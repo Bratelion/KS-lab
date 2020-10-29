@@ -5,7 +5,7 @@ import Combobox from '../Combobox'
 import styles from './style.module.css'
 
 const Navigation = ({ activeTab }) => (
-    <section>
+    <section className={styles.Navigation}>
         <NavigationBar activeTab={activeTab} />
         <Combobox />
     </section>
