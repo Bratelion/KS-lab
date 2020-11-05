@@ -2,7 +2,7 @@ import React from 'react'
 import ReactFlagsSelect from 'react-flags-select';
 import 'react-flags-select/css/react-flags-select.css';
  
-import NavigationBar from '../NavigationBar'
+import NavigationBar from '../../modules/NavigationBar'
 import styles from './style.module.css'
  
 const Navigation = ({ activeTab }) => (
