@@ -15,7 +15,7 @@ const firstText = `
 `
  
 const secondText = `
-  solated from the tourist crowds, yet just a few kilometers 
+  Isolated from the tourist crowds, yet just a few kilometers 
   from the tourist centers, lies the fishing village Vinkuran. 
   The private apartments above Vinkuran Bay and Soline Cove guarantee 
   a pleasant and peaceful vacation. Vinkuran has a sheltered beach along pine trees.
